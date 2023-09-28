@@ -1,0 +1,32 @@
+{
+	"info": {
+		"_postman_id": "05f49f65-64dc-4426-b441-e624497d2e7b",
+		"name": "LocationAPI",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "28665123",
+		"_collection_link": "https://www.postman.com/red-zodiac-783446/workspace/first-test/collection/28665123-05f49f65-64dc-4426-b441-e624497d2e7b?action=share&source=collection_link&creator=28665123"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://ipapi.co/8.8.8.8/json/",
+					"protocol": "https",
+					"host": [
+						"ipapi",
+						"co"
+					],
+					"path": [
+						"8.8.8.8",
+						"json",
+						""
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
